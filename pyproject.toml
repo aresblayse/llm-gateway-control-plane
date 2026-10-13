@@ -1,0 +1,5 @@
+[project]
+name = "llm-gateway-control-plane"
+version = "1.0.0"
+requires-python = ">=3.14,<3.15"
+description = "A deterministic model gateway control plane with policy enforcement, routing, quotas, provider adapters and request observability."
